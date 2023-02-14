@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @shivvyasstudy
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me ...
+shivvyas0096@gmail.com
 
 <!---
 shivvyasstudy/shivvyasstudy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
