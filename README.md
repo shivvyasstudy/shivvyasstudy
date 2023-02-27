@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shivvyasstudy
+- 👋 Hi, I’m Shiv
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
+
 
 - 📫 How to reach me ...
 shivvyas0096@gmail.com
